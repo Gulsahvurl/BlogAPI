@@ -10,6 +10,7 @@ vb. bu gibi kuralları zorunlu kılıp , daha okunaklı kod yazmayı sağlıyor.
 
 2)Kullandığınız teknoloji ve kütüphaneler hakkında daha önce tecrübeniz oldu mu? Tek tek 
 yazabilir misiniz?
-.Net core da web Api,mysql
+Teknoloji olarak .Net core web Api , database olarak  mysql kullandım.
 3) Daha geniş vaktiniz olsaydı projeye neler eklemek isterdiniz? 
 Detaylı filtreleme özellikleri eklerdim.
+JSON Web Tokens (JWT) ile authorization sistemi eklerdim.
